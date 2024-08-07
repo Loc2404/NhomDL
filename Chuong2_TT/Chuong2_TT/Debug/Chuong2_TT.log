@@ -1,0 +1,8 @@
+﻿  Chuong2_TT.cpp
+D:\chuong2\Chuong2_TT\Chuong2_TT\Chuong2_TT.cpp(88,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\chuong2\Chuong2_TT\Chuong2_TT\Chuong2_TT.cpp(89,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\chuong2\Chuong2_TT\Chuong2_TT\Chuong2_TT.cpp(90,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\chuong2\Chuong2_TT\Chuong2_TT\Chuong2_TT.cpp(102,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\chuong2\Chuong2_TT\Chuong2_TT\Chuong2_TT.cpp(103,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\chuong2\Chuong2_TT\Chuong2_TT\Chuong2_TT.cpp(104,17): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\chuong2\Chuong2_TT\Chuong2_TT\Chuong2_TT.cpp(111,51): warning C4305: 'initializing': truncation from 'double' to 'float'
