@@ -1,0 +1,5 @@
+﻿  File27.cpp
+  File28.cpp
+D:\chuong3\Chuong4\Chuong4\File28.cpp(20,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Chuong4.vcxproj -> D:\chuong3\Chuong4\Debug\Chuong4.exe
